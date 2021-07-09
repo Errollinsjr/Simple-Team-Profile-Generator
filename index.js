@@ -6,9 +6,9 @@ const path = require("path");
 const fs = require("fs");
 
 const OUTPUT_DIR = path.resolve(__dirname, "output")
-const outputPath = path.join(OUTPUT_DIR, "team.html");
+const outputPath = path.join(OUTPUT_DIR, "exampleTeam.html");
 
-const render = require("./src/page-template.js");
+const render = require("./src/generateHTML.js");
 
 const teamMembers = [];
 const idArray = [];
