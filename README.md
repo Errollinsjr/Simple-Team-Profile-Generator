@@ -11,6 +11,7 @@ A node command-line application Simple Team Profile Generator
 https://vimeo.com/572834702
 </br>
 Open a terminal and type node index.js before then filling out the prompts accurately
+
 </br>
 Shows
 - Walkthrough video that demonstrates the functionality of the Team Profile Generator and passing tests must be submitted
